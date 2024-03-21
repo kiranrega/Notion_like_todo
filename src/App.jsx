@@ -1,10 +1,8 @@
-
-import './App.css'
-import NotionDemo from './components/NotionDemo'
+import "./App.css";
+import CustomKanban from "./components/NotionDemo";
 
 function App() {
-  return <NotionDemo />
-  
+  return <CustomKanban />;
 }
 
-export default App
+export default App;
